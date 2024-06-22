@@ -1,4 +1,4 @@
-<h1><strong>About Me</strong></h1>
+<h1><strong>About Me👋</strong></h1>
 
 <p>Hey there! I'm Eleani a computer engineering student✨ </p>
 
