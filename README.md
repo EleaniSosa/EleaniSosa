@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1><strong>About Me</strong></h1>
+
+<p>Hey there! I'm Eleani a computer engineering student✨ </p>
 
 <!--
 **EleaniSosa/EleaniSosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
